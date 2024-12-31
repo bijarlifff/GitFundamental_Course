@@ -1,0 +1,3 @@
+URL : https://fitbybeat.com/
+
+ERROR : form select "Sex" dan "Select an activity factor:" tidak bisa di click karena menggunakan element span
